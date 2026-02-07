@@ -5,6 +5,8 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0-brightgreen)](https://github.com/Alb3rtsonTL/project-landing)
 
+<img src="/img/preview.png" alt="Preview del proyecto"><br>
+
 ## Descripción 📑
 
 Project Landing es una **landing page estática y reutilizable** diseñada para servir como plantilla de proyectos en desarrollo. Puede usarse para presentaciones de proyectos, previews o como "coming soon" mientras tu proyecto real (portafolio, web dinámica, etc.) se encuentra en desarrollo.  
