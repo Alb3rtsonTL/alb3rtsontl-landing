@@ -54,7 +54,7 @@ body {
 
     background:
         linear-gradient(var(--bg-overlay), var(--bg-overlay)),
-        url("/img/background.jpeg") center / cover no-repeat;
+        url("/img/background.webp") center / cover no-repeat;
 }
 
 /* Theme Toggle */
