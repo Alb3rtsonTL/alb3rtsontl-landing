@@ -36,7 +36,7 @@ El proyecto está desarrollado con **HTML5, CSS3 y JavaScript**, con un diseño 
 
 1. **Clonar el repositorio:**
 ```bash
-git clone https://github.com/Alb3rtsonTL/project-landing.git
+git clone https://github.com/Alb3rtsonTL//alb3rtsontl-landing.git
 cd project-landing
 ```
 
